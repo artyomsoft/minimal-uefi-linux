@@ -1,0 +1,1 @@
+docker run --rm -it --workdir /result -v %cd%:/result debian:bookworm ./build-linux.sh
